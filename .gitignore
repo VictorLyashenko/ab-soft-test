@@ -1,0 +1,7 @@
+/.git/
+/.idea/
+/.settings/
+/target/
+/allure-result/
+/.vscode/
+/computer-database-test.iml
