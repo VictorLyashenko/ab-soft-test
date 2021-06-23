@@ -1,4 +1,3 @@
-/bin/
 /.git/
 /.idea/
 /.settings/
@@ -6,3 +5,4 @@
 /allure-result/
 /.vscode/
 /computer-database-test.iml
+/bin/
