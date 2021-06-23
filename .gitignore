@@ -2,7 +2,7 @@
 /.idea/
 /.settings/
 /target/
-/allure-result/
+/allure-results/
 /.vscode/
 /computer-database-test.iml
 /bin/

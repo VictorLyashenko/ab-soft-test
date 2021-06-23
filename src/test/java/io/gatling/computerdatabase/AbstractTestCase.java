@@ -17,6 +17,6 @@ public abstract class AbstractTestCase {
 
     @AfterClass
     public void tearDown() {
-        // driver.quit();
+        driver.quit();
     }
 }
